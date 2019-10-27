@@ -1,0 +1,6 @@
+﻿1|Fonte queimada|Hardware|A fonte queimou após descarga de raios
+3|Criar um usuário para o estagiário Joaquim de Oliveira|Criação Usuário|Criar um usuário para o estagiário Joaquim de Oliveira com perfil de administrador
+4|Configurar a impressora para o gerente Luciano Kelmes|Impressora|Configurar a impressora para o gerente Luciano Kelmes com urgência
+1|Configurar wifi do notebook para Renato Macedo|Rede|Configurar wifi do notebook para Renato Macedo do setor do comercial
+2|Esqueci minha senha - Fulando de Aguilar|Criação Usuário|Sou Fulando de Aguilar e esqueci minha senha. Preciso de uma nova senha,
+1|Instalar aplicação App Help Desk|Software|Instalar aplicação App Help Desk para os novos clientes
